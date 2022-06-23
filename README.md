@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-detection
-It contains only the preprocessing part of credit card fraud detection
+The notebook contains Credit card fraud detection code in python 
+Model is Trained using LogisticRegression, RandomForest and Support Vector Machine
